@@ -1,8 +1,4 @@
 # BlitzJobs
 Summer Internship (Graphic Designer)
 
-Study design briefs and determine requirements.
-Schedule projects and define budget constraints.
-Conceptualize visuals based on requirements.
-Prepare rough drafts and present ideas.
-Develop illustrations, logos and other designs using software.
+Study design briefs and determine requirements, schedule projects and define budget constraints, conceptualize visuals based on requirements. Prepare rough drafts and present ideas and develop illustrations, logos and other designs using software.
